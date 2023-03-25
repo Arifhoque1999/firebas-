@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firebas-/static/css/main.964fdded.css",
+    "main.js": "/firebas-/static/js/main.40a3c3db.js",
+    "index.html": "/firebas-/index.html",
+    "main.964fdded.css.map": "/firebas-/static/css/main.964fdded.css.map",
+    "main.40a3c3db.js.map": "/firebas-/static/js/main.40a3c3db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.40a3c3db.js"
+  ]
+}
